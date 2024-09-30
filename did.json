@@ -1,0 +1,18 @@
+{
+  "id": "did:web:sumanair.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:sumanair.github.io:did-web-demo#56edb64343da37fb9b238ddeed352f6f9f5a55064354114b3d1d68a1be5da4d9",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:sumanair.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "uM7xi_OOtFhu2N9op79r0B0O5M7PPVH2JKi_dYSKOyN4MYWIfr6phpzMLSP9Y9di",
+        "y": "i9iicpv-CzW0kPV0DGm-KCR8uz-pIEqJDBxFbt9jJxqGf2a30XAFuWePgfG559Ir",
+        "kid": "#56edb64343da37fb9b238ddeed352f6f9f5a55064354114b3d1d68a1be5da4d9",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
